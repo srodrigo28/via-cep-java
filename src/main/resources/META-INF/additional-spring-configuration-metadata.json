@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.cep.username",
+    "type": "java.lang.String",
+    "description": "A description for 'api.cep.username'"
+  },
+  {
+    "name": "api.cep.senha",
+    "type": "java.lang.String",
+    "description": "A description for 'api.cep.senha'"
+  }
+]}
