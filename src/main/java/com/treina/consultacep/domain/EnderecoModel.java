@@ -1,17 +1,13 @@
-package com.treina.consultacep.model;
+package com.treina.consultacep.domain;
 
-import lombok.Builder;
 import lombok.Data;
 
 @Data
-@Builder
 public class EnderecoModel {
-
     private String cep;
     private String logradouro;
     private String complemento;
     private String bairro;
     private String localidade;
     private String uf;
-    
 }
